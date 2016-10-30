@@ -36,7 +36,7 @@ CACHEMOD=false
 
 # This will be the folder name under /magisk or /cache/magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=GSAM-PRO
+MODID=ACTION_LAUNCHER_GSAM-PRO
 
 # Set to true if you need automount
 # Most mods would like it to be enabled
