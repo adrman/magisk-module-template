@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=ACTION_LAUNCHER_GSAM-PRO
+name=ACTION_LAUNCHER_GSAM-PRO_MAGISK_Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=adrman
+description=Allows Action Launcher Pro and GSAM Pro as system apps
+support=http://
+donate=http://
 cacheModule=false
