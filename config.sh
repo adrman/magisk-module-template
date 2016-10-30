@@ -59,7 +59,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     GSAM-PRO_MAGISK           "
+  ui_print "ACTION_LAUNCHER_GSAM-PRO_MAGISK"
   ui_print "*******************************"
 }
 
